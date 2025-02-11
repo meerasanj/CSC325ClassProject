@@ -17,4 +17,4 @@
 - Prefers intuitive, user-friendly solutions that don’t require technical expertise to set up or maintain.
 
 **Scenario:**
-Priya works at a mid-sized digital marketing agency, where she manages multiple client campaigns. She relies heavily on productivity tools to stay organized and collaborate with her team. Priya is excited about the new integration feature in her project management tool, as it promises to connect her favorite apps and reduce her workload. However, she’s concerned about being bombarded with notifications and hopes the feature allows her to customize alerts to fit her workflow.
+Priya works at a mid-sized digital marketing agency, where she manages multiple client campaigns. She relies heavily on productivity tools to stay organized and collaborate with her team. Priya is excited about the new integration feature that ABC Company is releasing, as it promises to connect her favorite apps and reduce her workload. However, she’s concerned about being bombarded with notifications and hopes the feature allows her to customize alerts to fit her workflow.

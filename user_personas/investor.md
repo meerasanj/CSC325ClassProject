@@ -1,7 +1,9 @@
 # Investor Persona
 
 **Name:** Micheal Carter
+
 **Role:** Venture Capitalist
+
 **Demographics:** 48 years old; male; New York, NY
 
 **Goals and Motivations:**

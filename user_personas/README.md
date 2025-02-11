@@ -7,6 +7,7 @@ This directory contains **user personas** representing key stakeholders for the 
 1. **End Users** – Individuals who interact with the software in their daily activities.  
 2. **Developers** – Team members responsible for designing, coding, and maintaining the software.  
 3. **Software Owner** – The person or entity overseeing the software’s development, distribution, and overall vision.
+3. **Investor** - The person or organization that provides funding and expects a return on investment.
 
 ## Requirements
 The feature design must align with the goals and needs of the personas. Each persona should include the following information:

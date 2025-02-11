@@ -17,5 +17,5 @@
 - Navigating legal, compliance, and security considerations.
 
 **Scenario:**
-Michael reviews the latest user analytics and sees a drop in engagement. He meets with product managers and engineers to discuss potential updates. If the team provides clear insights and data-driven recommendations, he can make informed decisions. However, if there’s a disconnect between user needs and development priorities, it could lead to wasted resources or lost market share.
+Tom reviews the latest user analytics and sees a drop in engagement for the software. He meets with product managers and engineers to discuss potential updates. If the team provides clear insights and data-driven recommendations, he can make informed decisions. However, if there’s a disconnect between user needs and development priorities, it could lead to wasted resources or lost market share. Ultimately, Tom will influence decisions regarding software updates.
 

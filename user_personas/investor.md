@@ -2,19 +2,19 @@
 
 **Name:** Micheal Carter
 
-**Role:** Venture Capitalist
+**Role:** Angel Investor & Tech Industry Mentor
 
 **Demographics:** 48 years old; male; New York, NY
 
 **Goals and Motivations:**
-- Identify and invest in innovative, high-potential software solutions.
-- Ensure a strong return on investment (ROI) for his firm.
-- Stay ahead of market trends and emerging technologies.
+- Support early-stage tech talent by investing in promising student-led projects.
+- Identify scalable and innovative web-based solutions that could evolve into startups.
+- Mentor young developers in building a strong online presence and professional brand.
 
 **Challenges and Pain Points:**
-- Balancing risk and reward when investing in unproven technologies.
-- Managing pressure from his firm to deliver consistent returns.
-- Ensuring portfolio companies meet growth milestones and stay on track.
+- Assessing whether student portfolios translate into real-world job opportunities.
+- Determining the long-term value of personal branding in tech careers.
+- Ensuring that students develop portfolios that are more than just class projects but also valuable assets for employers and potential startup ventures.
 
 **Scenario:**
-Michael is evaluating a SaaS company that has developed a productivity tool with a new integration feature. He reviews the software’s performance metrics, user adoption rates, and financial projections during a demo with the CEO. While impressed by the software’s potential to streamline workflows, Michael is concerned about the company’s ability to scale and compete with established players. He asks detailed questions about the development roadmap, customer acquisition strategy, and long-term monetization plans. After the meeting, Michael discusses the opportunity with his team, weighing the risks and rewards before deciding whether to invest. His ultimate goal is to ensure the software not only meets market needs but also delivers a strong ROI for his firm.
+Michael frequently attends university hackathons and career fairs to discover emerging tech talent. He comes across a student's personal website portfolio and is impressed by its clean design, interactive elements, and well-documented projects. While he sees potential, he notices that many student portfolios lack clear value propositions and professional branding. He reaches out to the student, offering feedback on optimizing the portfolio for visibility and career growth. 

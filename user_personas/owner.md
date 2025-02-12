@@ -1,21 +1,22 @@
 # Owner Persona
 
-**Name:** Tom Carter
+Note: I thought of the owner persona, in relation to this project proposal, as a kind of portfolio mentor or teacher who is helping students with creating the portfolio.
 
-**Role:** Founder & CEO
+**Name:** Dr. Tom Carter
+
+**Role:** Computer Science Professor / Project Mentor
 
 **Demographics:** 55 years old, male, San Francisco, CA
 
 **Goals and Motivations:**
-- Ensure the software meets market demands and drives revenue growth.
-- Make strategic decisions based on user feedback and industry trends.
-- Maintain a competitive edge through innovation.
+- Help students create a professional and effective portfolio to improve their job prospects.
+- Provide guidance on best practices in web development and personal branding.
+- Ensure the project aligns with industry expectations and standards.
 
 **Challenges and Pain Points:**
-- Managing development costs while maintaining software quality.
-- Balancing user needs with business goals.
-- Navigating legal, compliance, and security considerations.
+- Making sure students balance technical depth with an appealing design.
+- Encouraging students to maintain and update their portfolios regularly.
+- Ensuring students include content that highlights their skills effectively.
 
 **Scenario:**
-Tom reviews the latest user analytics and sees a drop in engagement for the software. He meets with product managers and engineers to discuss potential updates. If the team provides clear insights and data-driven recommendations, he can make informed decisions. However, if there’s a disconnect between user needs and development priorities, it could lead to wasted resources or lost market share. Ultimately, Tom will influence decisions regarding software updates.
-
+Dr. Carter reviews a student’s portfolio and notices it lacks clear project descriptions. He suggests adding problem statements, solutions, and technologies used to make the portfolio more informative. He also encourages students to include a contact section to make it easier for employers to reach out.

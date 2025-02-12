@@ -25,11 +25,11 @@ cd CSC325ClassProject
 ```
 ### 2️⃣ Install Dependencies (if applicable)  
 ```bash
-npm install
+TBD
 ```
 ### 3️⃣ Run the Project  
 ```bash
-npm start
+TBD
 ```
 
 ## License  

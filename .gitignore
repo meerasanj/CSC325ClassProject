@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+.venv/
+
+# MacOS system files
+.DS_Store
+
+# Docker and other generated files
+*.log
+*.bak
+
+# Vale and markdownlint generated files (if applicable)
+styles/vale/
+
+# Other IDE-specific files (if needed)
+.vscode/
